@@ -14,11 +14,11 @@
 
 3. End-to-End Workflow:
 
-  Covered the entire workflow, from data preprocessing to exploratory data analysis and result sharing.
-  Emphasized reproducibility with clear code and documented steps.
+   Covered the entire workflow, from data preprocessing to exploratory data analysis and result sharing.
+   Emphasized reproducibility with clear code and documented steps.
 
 4. Code Highlights:
 
-  Utilized clean, optimized Python code for efficient data handling.
-  Included well-documented scripts for ease of understanding and modification.
+   Utilized clean, optimized Python code for efficient data handling.
+   Included well-documented scripts for ease of understanding and modification.
    
